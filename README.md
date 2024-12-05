@@ -31,11 +31,11 @@ i) HOX genes: Several HOX genes, including HOXA5, HOXA9, and HOXD10, have been i
 
 ### Three hypotheses explaining how the misexpression of these genes leads to breast cancer:
 
-    Hypothesis 1: Genomic Instability and DNA Repair Deficiency
+#### Hypothesis 1: Genomic Instability and DNA Repair Deficiency
 The misexpression of BRCA1, BRCA2, and TP53 leads to impaired DNA repair mechanisms and genomic instability. This results in an accumulation of genetic mutations, including those in other cancer-related genes. The inability to correct these mutations allows cells to acquire additional cancer-promoting characteristics, such as uncontrolled proliferation and resistance to apoptosis, ultimately leading to breast cancer development.
 
-    Hypothesis 2: Dysregulation of Cell Signaling Pathways
+#### Hypothesis 2: Dysregulation of Cell Signaling Pathways
 Misexpression of genes like PIK3CA, PTEN, and HER2 leads to hyperactivation of key signaling pathways, particularly the PI3K/AKT and MAPK pathways. This dysregulation results in increased cell survival, proliferation, and resistance to apoptosis. Additionally, altered expression of hormone receptors (ESR1 and PGR) disrupts normal hormone-responsive gene regulation. The combined effect of these signaling abnormalities creates a cellular environment conducive to breast cancer initiation and progression.
 
-    Hypothesis 3: Altered Cell Cycle Control and Differentiation
+#### Hypothesis 3: Altered Cell Cycle Control and Differentiation
 Misexpression of cell cycle regulators like CCND1 and MYC, combined with altered expression of developmental regulators such as HOX genes, leads to a state of aberrant cell cycle control and impaired differentiation. This results in a population of breast epithelial cells that continue to proliferate but fail to terminally differentiate. These cells are more susceptible to additional genetic and epigenetic changes, increasing the likelihood of malignant transformation. Furthermore, the altered expression of HOX genes may contribute to the acquisition of stem cell-like properties, promoting tumor initiation and progression.
