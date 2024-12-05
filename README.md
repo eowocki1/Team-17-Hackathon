@@ -9,21 +9,21 @@ A clinical breast examination is used to diagnose breast cancer through mammogra
 
 Several genes have been identified as being associated with breast cancer. The most well-known and studied include:
 
-a) BRCA1 and BRCA2: These tumor suppressor genes are the most common hereditary breast cancer genes 1.
+a) BRCA1 and BRCA2: These tumor suppressor genes are the most common hereditary breast cancer genes.
 
-b) TP53: A tumor suppressor gene that regulates cell division and prevents tumor formation 2.
+b) TP53: A tumor suppressor gene that regulates cell division and prevents tumor formation.
 
-c) PIK3CA: Often mutated in breast cancer, affecting cell growth and survival 3.
+c) PIK3CA: Often mutated in breast cancer, affecting cell growth and survival.
 
-d) PTEN: Another tumor suppressor gene frequently mutated in breast cancer 4.
+d) PTEN: Another tumor suppressor gene frequently mutated in breast cancer.
 
-e) HER2 (ERBB2): Amplification or overexpression of this gene occurs in about 20-30% of breast cancers 5.
+e) HER2 (ERBB2): Amplification or overexpression of this gene occurs in about 20-30% of breast cancers.
 
-f) ESR1 and PGR: Genes encoding estrogen and progesterone receptors, respectively 6.
+f) ESR1 and PGR: Genes encoding estrogen and progesterone receptors, respectively.
 
-g) CCND1: Encodes Cyclin D1, often amplified in breast cancer 7.
+g) CCND1: Encodes Cyclin D1, often amplified in breast cancer.
 
-h) MYC: A proto-oncogene frequently amplified in breast cancer 8.
+h) MYC: A proto-oncogene frequently amplified in breast cancer.
 
-i) HOX genes: Several HOX genes, including HOXA5, HOXA9, and HOXD10, have been implicated in breast cancer development 9.
+i) HOX genes: Several HOX genes, including HOXA5, HOXA9, and HOXD10, have been implicated in breast cancer development.
 
