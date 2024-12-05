@@ -1,7 +1,8 @@
 # Team 17 Hackathon
 
 # Technical Report
-Disease: Breast Cancer
+
+### Disease: Breast Cancer
 
 Breast cancer is a complex disease characterized by the uncontrolled growth of cells in the breast tissue. It's the most common cancer in women worldwide and can also occur in men, though much less frequently. Symptoms include a new lump or mass in the breast or armpit, thickening or swelling of part of the breast, skin irritation or dimpling, breast or nipple pain, nipple retraction (turning inward), redness, scaliness, or thickening of the nipple or breast skin, nipple discharge other than breast milk. These symptoms can also be caused by benign conditions, and not all breast cancers cause noticeable symptoms in early stages. While breast cancer originates in breast tissue, it can affect multiple organ systems including the lymphatic system, bones, lungs, liver, brain, skin, endocrine system, and immune system if it metastasizes.
 
