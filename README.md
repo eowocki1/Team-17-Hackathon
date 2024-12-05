@@ -8,6 +8,7 @@ Breast cancer is a complex disease characterized by the uncontrolled growth of c
 
 A clinical breast examination is used to diagnose breast cancer through mammography, ultrasound, Magnetic Resonance Imaging (MRI), and potentially a biopsy.Treatment for breast cancer is usually multimodal and may include surgery, radiation therapy, or systemic therapy. Treatment is considered successful when there is complete remission (no detectable cancer), partial remission (reduction in tumor size), disease-free survival, overall survival, improved quality of life, and minimal side effects and complications. If treatment fails, alternative chemotherapy regimens, clinical trials of new drugs or combinations, targeted therapies based on genetic profiling of the tumor, and palliative care to manage symptoms may be utilized.
 
+### Genes
 Several genes have been identified as being associated with breast cancer. The most well-known and studied include:
 
 a) BRCA1 and BRCA2: These tumor suppressor genes are the most common hereditary breast cancer genes. Expressed in many tissues, particularly during embryonic development and in adult breast and ovarian tissues. They play crucial roles in DNA repair and cell cycle regulation. In breast epithelial tissue, loss of function mutations lead to decreased expression or non-functional proteins. This impairs DNA repair, causing genomic instability, which contributes to cancer development.
@@ -28,7 +29,7 @@ h) MYC: A proto-oncogene frequently amplified in breast cancer. Widely expressed
 
 i) HOX genes: Several HOX genes, including HOXA5, HOXA9, and HOXD10, have been implicated in breast cancer development. Expressed during embryonic development in specific spatial and temporal patterns, crucial for body patterning and organ development. In adult tissues, they maintain tissue-specific functions. Various HOX genes, including HOXD10, are misexpressed in breast cancer, often downregulated in breast cancer tissues. This misexpression can lead to altered cell differentiation, increased proliferation, and enhanced invasive capabilities.
 
-Three hypotheses explaining how the misexpression of these genes leads to breast cancer:
+### Three hypotheses explaining how the misexpression of these genes leads to breast cancer:
 
     Hypothesis 1: Genomic Instability and DNA Repair Deficiency
 The misexpression of BRCA1, BRCA2, and TP53 leads to impaired DNA repair mechanisms and genomic instability. This results in an accumulation of genetic mutations, including those in other cancer-related genes. The inability to correct these mutations allows cells to acquire additional cancer-promoting characteristics, such as uncontrolled proliferation and resistance to apoptosis, ultimately leading to breast cancer development.
