@@ -63,77 +63,77 @@ Both cis-eQTLs (affecting nearby genes) and trans-eQTLs (affecting distant genes
 Interestingly, a study by Geeleher et al. (2018) found that only about one-third of breast cancer risk variants identified as eQTLs from conventional analysis could be confidently attributed to cancer cells 6. This highlights the importance of cell-type-specific eQTL analysis in cancer research.
 
 ## Task F
-Hypothesis:
+#### Hypothesis:
 The dysregulation of a specific PPI network involving BRCA1, BRCA2, and TP53 leads to aberrant gene expression patterns, resulting in the breast cancer phenotype through mechanism X, where X is defined as impaired DNA damage repair and cell cycle checkpoint control.
 
-Experimental Design:
+#### Experimental Design:
 
-Model System Selection:
+##### Model System Selection:
 Use MCF-10A cells (non-tumorigenic human breast epithelial cells) as the primary model system, along with MCF-7 and MDA-MB-231 (breast cancer cell lines) for comparison 1.
 
-Identification of Target PPI Network:
+###### Identification of Target PPI Network:
 Focus on the PPI network involving BRCA1, BRCA2, and TP53, which are known to be crucial in DNA repair and cell cycle regulation 2.
 
-Gene Manipulation:
+###### Gene Manipulation:
 a) Use CRISPR-Cas9 to create single and combinatorial knockouts of BRCA1, BRCA2, and TP53 in MCF-10A cells 3.
 b) Generate overexpression lines for each gene.
 c) Create cell lines with specific mutations found in breast cancer patients (e.g., BRCA1 185delAG, BRCA2 6174delT, TP53 R175H) 4.
 
-RNA-Seq Analysis:
+###### RNA-Seq Analysis:
 a) Perform RNA-Seq on wild-type and mutant cell lines under normal conditions and after DNA damage induction (e.g., ionizing radiation) 5.
 b) Include at least 3 biological replicates for each condition.
 c) Analyze differential gene expression, focusing on genes involved in DNA repair, cell cycle control, and apoptosis.
 
-Protein-Protein Interaction Assays:
+###### Protein-Protein Interaction Assays:
 a) Use co-immunoprecipitation followed by mass spectrometry to identify and quantify protein interactions in the network 6.
 b) Perform proximity ligation assays to visualize PPIs in situ, comparing wild-type and mutant cells.
 
-Phenotypic Analysis:
+###### Phenotypic Analysis:
 a) Assess cell proliferation rates, cell cycle distribution, and apoptosis in all cell lines.
 b) Measure DNA damage repair efficiency using comet assays and γ-H2AX foci formation 7.
 c) Evaluate genomic instability through chromosome spreads and FISH analysis.
 
-Network Modeling:
+###### Network Modeling:
 a) Construct a computational model of the PPI network using the experimental data.
 b) Use systems biology approaches to predict how network perturbations affect gene expression and cellular phenotypes 8.
 
-Validation Experiments:
+###### Validation Experiments:
 a) Perform ChIP-seq for BRCA1, BRCA2, and TP53 to identify changes in their genomic binding sites across different cell lines 9.
 b) Use qRT-PCR to validate expression changes in key target genes identified from RNA-Seq.
 
-Protein Level Analysis:
+###### Protein Level Analysis:
 a) Conduct Western blot analysis for key proteins in the network and their post-translational modifications.
 b) Use RPPA (Reverse Phase Protein Array) to quantify changes in protein levels and phosphorylation states across the cell lines 10.
 
-Functional Assays:
+###### Functional Assays:
 a) Perform homologous recombination and non-homologous end joining assays to assess DNA repair efficiency 11.
 b) Use flow cytometry to analyze cell cycle checkpoints after DNA damage induction.
 c) Assess cellular transformation using soft agar colony formation assays.
 
-3D Culture and In Vivo Models:
+###### 3D Culture and In Vivo Models:
 a) Grow cells in 3D Matrigel cultures to assess acini formation and polarization 12.
 b) Implant cells into immunodeficient mice to evaluate tumor formation and growth in vivo.
 
-Multi-omics Integration:
+###### Multi-omics Integration:
 a) Integrate transcriptomics, proteomics, and interactomics data using advanced bioinformatics approaches.
 b) Use machine learning algorithms to identify key network features that correlate with the cancer phenotype.
 
-Drug Response Profiling:
+###### Drug Response Profiling:
 a) Test the response of wild-type and mutant cells to PARP inhibitors and platinum-based drugs 13.
 b) Perform high-throughput drug screening to identify compounds that specifically target cells with disrupted PPI networks.
 
-Control Experiments:
+###### Control Experiments:
 a) Include isogenic controls for each genetic manipulation.
 b) Perform rescue experiments by reintroducing wild-type genes into knockout cell lines.
 
-**Expected Outcomes:
+#### Expected Outcomes:
 
 A comprehensive dataset linking PPI network perturbations to changes in gene expression, DNA repair efficiency, and cancer-related phenotypes.
 Identification of key nodes and edges in the PPI network that are critical for maintaining normal gene expression and preventing the cancer phenotype.
 Potential discovery of novel regulatory mechanisms within the BRCA1/BRCA2/TP53 network.
 A refined model of how disruptions in this PPI network lead to breast cancer through aberrant gene expression and impaired DNA repair.
-Potential Challenges and Considerations:
 
+#### Potential Challenges and Considerations:
 Some genetic manipulations may be lethal, requiring the use of inducible systems.
 The complexity of the PPI network may make it challenging to isolate the effects of individual interactions.
 In vitro results may not fully recapitulate the in vivo tumor microenvironment.
