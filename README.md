@@ -41,6 +41,11 @@ Misexpression of genes like PIK3CA, PTEN, and HER2 leads to hyperactivation of k
 #### Hypothesis 3: Altered Cell Cycle Control and Differentiation
 Misexpression of cell cycle regulators like CCND1 and MYC, combined with altered expression of developmental regulators such as HOX genes, leads to a state of aberrant cell cycle control and impaired differentiation. This results in a population of breast epithelial cells that continue to proliferate but fail to terminally differentiate. These cells are more susceptible to additional genetic and epigenetic changes, increasing the likelihood of malignant transformation. Furthermore, the altered expression of HOX genes may contribute to the acquisition of stem cell-like properties, promoting tumor initiation and progression.
 
+## Task D
+
+### Building a protein:protein interaction network (PPI)
+
+PPI and gene co-expression networks differ when it comes to how their data is sourced and derived, their focus, and their significance from a biological standpoint. A PPI network works by mapping interactions, both physical and functional, between proteins and shows how they collaborate to effectively function. This network uses experimental methods to identify hub proteins critical to diseases with Yeast two-hybrid screening (Y2H) and the coupling of affinity purification with mass spectrometry (AP-MS) being the two most common. Gene co-expression network highlights similar expression patters of genes across differing conditions and/or tissues to suggest co-regulation or shared functions. This network uses RNA-seq, microarrays, or other transcriptomic data to show tissue or disease-specific gene activity.
 ## Task E
 ### Tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 #### Tissue-Specific eQTLs in Breast Tissue:
