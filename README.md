@@ -1,4 +1,4 @@
-# Team-17-Hackathon
+# Team 17 Hackathon
 
 # Technical Report
 Disease: Breast Cancer
