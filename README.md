@@ -53,5 +53,3 @@ Recent studies have employed multi-tissue TWASs to identify candidate genes for 
 Both cis-eQTLs (affecting nearby genes) and trans-eQTLs (affecting distant genes) have been identified in breast cancer studies. A recent study by Head et al. (2024) found that the median number of estimated eQTLs per gene was 1.14, with trans-eQTLs also playing a significant role.
 #### Cancer Cell-Specific eQTLs:
 Interestingly, a study by Geeleher et al. (2018) found that only about one-third of breast cancer risk variants identified as eQTLs from conventional analysis could be confidently attributed to cancer cells 6. This highlights the importance of cell-type-specific eQTL analysis in cancer research.
-## Integrative Approaches:
-Many studies are now using integrative approaches, combining eQTL data with other genomic information. For example, Xavier et al. (2024) demonstrated the power of differential allelic expression (DAE) analysis and daeQTL mapping to identify causal regulatory variants and target genes at breast cancer risk loci 7.
