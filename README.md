@@ -1,13 +1,14 @@
 # Team 17 Hackathon
 
 # Technical Report
-
+## Task B
 ### Disease: Breast Cancer
 
 Breast cancer is a complex disease characterized by the uncontrolled growth of cells in the breast tissue. It's the most common cancer in women worldwide and can also occur in men, though much less frequently. Symptoms include a new lump or mass in the breast or armpit, thickening or swelling of part of the breast, skin irritation or dimpling, breast or nipple pain, nipple retraction (turning inward), redness, scaliness, or thickening of the nipple or breast skin, nipple discharge other than breast milk. These symptoms can also be caused by benign conditions, and not all breast cancers cause noticeable symptoms in early stages. While breast cancer originates in breast tissue, it can affect multiple organ systems including the lymphatic system, bones, lungs, liver, brain, skin, endocrine system, and immune system if it metastasizes.
 
 A clinical breast examination is used to diagnose breast cancer through mammography, ultrasound, Magnetic Resonance Imaging (MRI), and potentially a biopsy.Treatment for breast cancer is usually multimodal and may include surgery, radiation therapy, or systemic therapy. Treatment is considered successful when there is complete remission (no detectable cancer), partial remission (reduction in tumor size), disease-free survival, overall survival, improved quality of life, and minimal side effects and complications. If treatment fails, alternative chemotherapy regimens, clinical trials of new drugs or combinations, targeted therapies based on genetic profiling of the tumor, and palliative care to manage symptoms may be utilized.
 
+## Task C
 ### Genes
 Several genes have been identified as being associated with breast cancer. The most well-known and studied include:
 
@@ -40,6 +41,7 @@ Misexpression of genes like PIK3CA, PTEN, and HER2 leads to hyperactivation of k
 #### Hypothesis 3: Altered Cell Cycle Control and Differentiation
 Misexpression of cell cycle regulators like CCND1 and MYC, combined with altered expression of developmental regulators such as HOX genes, leads to a state of aberrant cell cycle control and impaired differentiation. This results in a population of breast epithelial cells that continue to proliferate but fail to terminally differentiate. These cells are more susceptible to additional genetic and epigenetic changes, increasing the likelihood of malignant transformation. Furthermore, the altered expression of HOX genes may contribute to the acquisition of stem cell-like properties, promoting tumor initiation and progression.
 
+## Task E
 ### Tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 #### Tissue-Specific eQTLs in Breast Tissue:
 The GTEx (Genotype-Tissue Expression) project provides data on eQTLs specific to breast tissue 1. These eQTLs are genetic variants that influence gene expression in breast tissue, which is crucial for understanding breast cancer risk.
@@ -53,3 +55,5 @@ Recent studies have employed multi-tissue TWASs to identify candidate genes for 
 Both cis-eQTLs (affecting nearby genes) and trans-eQTLs (affecting distant genes) have been identified in breast cancer studies. A recent study by Head et al. (2024) found that the median number of estimated eQTLs per gene was 1.14, with trans-eQTLs also playing a significant role.
 #### Cancer Cell-Specific eQTLs:
 Interestingly, a study by Geeleher et al. (2018) found that only about one-third of breast cancer risk variants identified as eQTLs from conventional analysis could be confidently attributed to cancer cells 6. This highlights the importance of cell-type-specific eQTL analysis in cancer research.
+
+## Task F
