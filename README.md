@@ -46,6 +46,7 @@ Misexpression of cell cycle regulators like CCND1 and MYC, combined with altered
 ### Building a protein:protein interaction network (PPI)
 
 PPI and gene co-expression networks differ when it comes to how their data is sourced and derived, their focus, and their significance from a biological standpoint. A PPI network works by mapping interactions, both physical and functional, between proteins and shows how they collaborate to effectively function. This network uses experimental methods to identify hub proteins critical to diseases with Yeast two-hybrid screening (Y2H) and the coupling of affinity purification with mass spectrometry (AP-MS) being the two most common. Gene co-expression network highlights similar expression patters of genes across differing conditions and/or tissues to suggest co-regulation or shared functions. This network uses RNA-seq, microarrays, or other transcriptomic data to show tissue or disease-specific gene activity.
+
 ## Task E
 ### Tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 #### Tissue-Specific eQTLs in Breast Tissue:
