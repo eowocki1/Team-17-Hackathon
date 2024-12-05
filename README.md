@@ -39,3 +39,19 @@ Misexpression of genes like PIK3CA, PTEN, and HER2 leads to hyperactivation of k
 
 #### Hypothesis 3: Altered Cell Cycle Control and Differentiation
 Misexpression of cell cycle regulators like CCND1 and MYC, combined with altered expression of developmental regulators such as HOX genes, leads to a state of aberrant cell cycle control and impaired differentiation. This results in a population of breast epithelial cells that continue to proliferate but fail to terminally differentiate. These cells are more susceptible to additional genetic and epigenetic changes, increasing the likelihood of malignant transformation. Furthermore, the altered expression of HOX genes may contribute to the acquisition of stem cell-like properties, promoting tumor initiation and progression.
+
+### Tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
+#### Tissue-Specific eQTLs in Breast Tissue:
+The GTEx (Genotype-Tissue Expression) project provides data on eQTLs specific to breast tissue 1. These eQTLs are genetic variants that influence gene expression in breast tissue, which is crucial for understanding breast cancer risk.
+#### Identification of Candidate Genes:
+Several studies have used eQTL data from both tumor and normal breast tissues to identify candidate target genes for breast cancer 2. This approach helps in understanding how genetic variations might contribute to breast cancer risk.
+#### Variable eQTLs (veQTLs):
+A study by Wiggins et al. (2021) focused on significant (p < 5 × 10–8) variable eQTLs (veQTLs) unique to breast tissue to predict candidate genes involved in breast cancer risk 3. These veQTLs represent genetic variants that not only affect gene expression but also its variability.
+#### Multi-Tissue Transcriptome-Wide Association Studies (TWASs):
+Recent studies have employed multi-tissue TWASs to identify candidate genes for breast cancer. These studies consider both expression-based and splicing-based approaches, providing a comprehensive view of genetic influences on breast cancer risk 4.
+#### Cis and Trans eQTLs:
+Both cis-eQTLs (affecting nearby genes) and trans-eQTLs (affecting distant genes) have been identified in breast cancer studies. A recent study by Head et al. (2024) found that the median number of estimated eQTLs per gene was 1.14, with trans-eQTLs also playing a significant role.
+#### Cancer Cell-Specific eQTLs:
+Interestingly, a study by Geeleher et al. (2018) found that only about one-third of breast cancer risk variants identified as eQTLs from conventional analysis could be confidently attributed to cancer cells 6. This highlights the importance of cell-type-specific eQTL analysis in cancer research.
+## Integrative Approaches:
+Many studies are now using integrative approaches, combining eQTL data with other genomic information. For example, Xavier et al. (2024) demonstrated the power of differential allelic expression (DAE) analysis and daeQTL mapping to identify causal regulatory variants and target genes at breast cancer risk loci 7.
