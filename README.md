@@ -9,21 +9,20 @@ A clinical breast examination is used to diagnose breast cancer through mammogra
 
 Several genes have been identified as being associated with breast cancer. The most well-known and studied include:
 
-a) BRCA1 and BRCA2: These tumor suppressor genes are the most common hereditary breast cancer genes.
+a) BRCA1 and BRCA2: These tumor suppressor genes are the most common hereditary breast cancer genes. Expressed in many tissues, particularly during embryonic development and in adult breast and ovarian tissues. They play crucial roles in DNA repair and cell cycle regulation.
 
-b) TP53: A tumor suppressor gene that regulates cell division and prevents tumor formation.
+b) TP53: A tumor suppressor gene that regulates cell division and prevents tumor formation. Expressed in all tissues, with increased expression during cellular stress or DNA damage.
 
-c) PIK3CA: Often mutated in breast cancer, affecting cell growth and survival.
+c) PIK3CA: Often mutated in breast cancer, affecting cell growth and survival. Widely expressed in various tissues, playing a role in cell signaling and growth.
 
-d) PTEN: Another tumor suppressor gene frequently mutated in breast cancer.
+d) PTEN: Another tumor suppressor gene frequently mutated in breast cancer. Expressed in multiple tissues, regulating cell cycle and growth. Expressed in many epithelial tissues during development, playing a role in cell growth and differentiation.
 
-e) HER2 (ERBB2): Amplification or overexpression of this gene occurs in about 20-30% of breast cancers.
+e) HER2 (ERBB2): Amplification or overexpression of this gene occurs in about 20-30% of breast cancers. Expressed in many epithelial tissues during development, playing a role in cell growth and differentiation. 
+f) ESR1 and PGR: Genes encoding estrogen and progesterone receptors, respectively.Primarily expressed in reproductive tissues, including breast, ovary, and uterus. Their expression increases during puberty and pregnancy.
 
-f) ESR1 and PGR: Genes encoding estrogen and progesterone receptors, respectively.
+g) CCND1: Encodes Cyclin D1, often amplified in breast cancer. Expressed in various tissues during cell cycle progression.
 
-g) CCND1: Encodes Cyclin D1, often amplified in breast cancer.
+h) MYC: A proto-oncogene frequently amplified in breast cancer. Widely expressed during embryonic development and in adult tissues, regulating cell proliferation and differentiation.
 
-h) MYC: A proto-oncogene frequently amplified in breast cancer.
-
-i) HOX genes: Several HOX genes, including HOXA5, HOXA9, and HOXD10, have been implicated in breast cancer development.
+i) HOX genes: Several HOX genes, including HOXA5, HOXA9, and HOXD10, have been implicated in breast cancer development. Expressed during embryonic development in specific spatial and temporal patterns, crucial for body patterning and organ development. In adult tissues, they maintain tissue-specific functions.
 
