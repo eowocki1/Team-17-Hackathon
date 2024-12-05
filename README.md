@@ -28,6 +28,7 @@ h) MYC: A proto-oncogene frequently amplified in breast cancer. Widely expressed
 i) HOX genes: Several HOX genes, including HOXA5, HOXA9, and HOXD10, have been implicated in breast cancer development. Expressed during embryonic development in specific spatial and temporal patterns, crucial for body patterning and organ development. In adult tissues, they maintain tissue-specific functions. Various HOX genes, including HOXD10, are misexpressed in breast cancer, often downregulated in breast cancer tissues. This misexpression can lead to altered cell differentiation, increased proliferation, and enhanced invasive capabilities.
 
 Three hypotheses explaining how the misexpression of these genes leads to breast cancer:
+
     Hypothesis 1: Genomic Instability and DNA Repair Deficiency
 The misexpression of BRCA1, BRCA2, and TP53 leads to impaired DNA repair mechanisms and genomic instability. This results in an accumulation of genetic mutations, including those in other cancer-related genes. The inability to correct these mutations allows cells to acquire additional cancer-promoting characteristics, such as uncontrolled proliferation and resistance to apoptosis, ultimately leading to breast cancer development.
 
